@@ -1,0 +1,24 @@
+num1 = 1;
+num2 = 30;
+
+MAZCR_LPC_func(num1,40,'Wheelchair',0);
+MAZCR_LPC_func(num1,42,'Computer',1);
+MAZCR_LPC_func(num1,42,'Smartphone',2);
+MAZCR_LPC_func(num1,41,'Start',3);
+MAZCR_LPC_func(num1,43,'Stop',4);
+MAZCR_LPC_func(num1,42,'Off',5);
+MAZCR_LPC_func(num1,42,'Left',6);
+MAZCR_LPC_func(num1,43,'Right',7);
+MAZCR_LPC_func(num1,43,'Turn',8);
+MAZCR_LPC_func(num1,43,'Forward',9);
+MAZCR_LPC_func(num1,44,'Backward',10);
+MAZCR_LPC_func(num1,44,'Up',11);
+MAZCR_LPC_func(num1,43,'Down',12);
+MAZCR_LPC_func(num1,43,'Scroll',13);
+MAZCR_LPC_func(num1,42,'Zoom',14);
+MAZCR_LPC_func(num1,43,'Hold',15);
+MAZCR_LPC_func(num1,41,'Keyboard',16);
+MAZCR_LPC_func(num1,41,'Return',17);
+MAZCR_LPC_func(num1,39,'Home',18);
+MAZCR_LPC_func(num1,47,'Click',19);
+MAZCR_LPC_func(num1,43,'Select',20);
