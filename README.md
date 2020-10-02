@@ -19,4 +19,4 @@ The SR_test.m file contains the pipeline for testing the trained model, from rec
 The trained model is saved in the model subfolder, and other subfolders contain the testing LPC data with LIBSVM format.
 
 #### doc:
-Contains the final report and presentation.
+Contains the final [report](https://github.com/yahsieh37/Speech-Recognition-LPC-SVM/blob/master/doc/Report.pdf) and presentation.
